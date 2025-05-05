@@ -1,4 +1,5 @@
 # AUTOMATED-REPORT-GENERATION
+
 API-INTEGRATION-AND-DATA-VISUALIZATION
 COMPANY: CODTECH IT SOLUTIONS
 NAME : BHAKTI SHIVALE
@@ -6,8 +7,8 @@ INTERN ID: CT04WT87
 DOMAIN: PYTHON PROGRAMMING
 DURATION : 4 WEEKS
 MENTOR : NEELA SANTOSH
-DESCRIPTION:
 
+DESCRIPTION:
 This repository contains the implementation and documentation of Task-4 of my internship, focused on building an automated machine learning model using the scikit-learn library and generating a detailed report using a Jupyter Notebook. The core objective of this task is to classify or predict outcomes from a given dataset, such as identifying spam emails, and to produce a structured, interpretable, and visually enriched report that showcases the complete machine learning pipeline.
 
 🚀 Project Objective
