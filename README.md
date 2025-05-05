@@ -134,3 +134,7 @@ Include PDF or HTML export of reports
 
 Integrate with email or Slack APIs to send reports automatically
 
+output:
+
+[employee_report.pdf](https://github.com/user-attachments/files/20041409/employee_report.pdf)
+
